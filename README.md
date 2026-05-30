@@ -27,6 +27,8 @@ npm run dev
 
 Abrir http://localhost:3000
 
+**Producción (Vercel):** https://lab11-azure.vercel.app
+
 ## Requisitos
 
 - Node.js ≥ 18.18

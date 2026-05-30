@@ -69,7 +69,7 @@ En un punto tuve un error de hidratación porque el **DialogTrigger** y el **But
 |------------|-------------------|
 | Repositorio GitHub | https://github.com/jhonnBoza/lab11web |
 | Aplicación local | `npm run dev` → http://localhost:3000 |
-| Despliegue Vercel | _(completar cuando despliegue)_ |
+| Despliegue Vercel | https://lab11-azure.vercel.app |
 
 ---
 
