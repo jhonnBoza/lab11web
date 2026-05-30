@@ -39,3 +39,7 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# archivos temporales del lab / IDE
+_lab_table_*.txt
+.cursor/
